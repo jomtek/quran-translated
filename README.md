@@ -5,8 +5,7 @@ Free-to-use quran translations. Surah by surah.
  - French - *Muhammad Hamidullah*
 
 Do not hesitate to suggest any translation by making a pull request (exactly same format required).
-<br>
-
+<br><br><br>
 
 <img align="left" src="https://i.imgur.com/PvrBYt0_d.webp">
 
