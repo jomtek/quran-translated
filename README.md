@@ -1,4 +1,4 @@
-# Translated Qur'an
+# Translated Quran
 Free-to-use quran translations. Surah by surah.
 
  - English - *Muhammad Taqi-ud-Din Al-Hilali* - 1.25mb
