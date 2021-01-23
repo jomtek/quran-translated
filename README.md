@@ -1,8 +1,8 @@
-# Translated Qur'an
+# Translated Quran
 Free-to-use quran translations. Surah by surah.
 
- - English - *Muhammad Taqi-ud-Din Al-Hilali*
- - French - *Muhammad Hamidullah*
+ - English - *Muhammad Taqi-ud-Din Al-Hilali* - 1.25mb
+ - French - *Muhammad Hamidullah* - 1.12mb
 
 Do not hesitate to suggest any translation by making a pull request (exactly same format required).
 <br><br><br>
