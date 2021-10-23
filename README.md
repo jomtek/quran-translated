@@ -1,10 +1,5 @@
 # Translated Quran
-Free-to-use quran translations. Surah by surah.
-
- - Arabic - *Muhammad Taqi Uthmani* - 1.45mb
- - English - *Ahmed Ali* - 0.96mb
- - French - *Muhammad Hamidullah* - 1.05mb
-
+Free-to-use quran translations. Surah by surah.<br>
 Do not hesitate to suggest any translation by making a pull request (exactly same format required).
 <br><br><br>
 
